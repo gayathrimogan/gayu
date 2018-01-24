@@ -1,5 +1,4 @@
-// Java program to count the 
-// number of charaters in a file
+
 import java.io.*;
  
 public class Test
