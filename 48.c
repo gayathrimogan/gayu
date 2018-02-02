@@ -10,7 +10,9 @@ for(i=0;i<n;i++)
 scanf("%d",&a[i]);
 }
 for(i=0;i<n;i++)
+{
 sum=sum+a[i];
-d=sum/4;
+d=sum/n;
 printf("the average number is %d",d);
+}
 }
