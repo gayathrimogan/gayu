@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-int a
+int a;
 printf("enter the number");
 scanf("%d",&a);
 switch(a)
